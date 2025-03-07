@@ -4,6 +4,7 @@ import Auth from '../images/Auth.png';
 import FirebaseCrud from '../images/FirebaseCrud.png';
 import Adminpanle from '../images/Adminpanle.png';
 import boot from '../images/Bootsrtap.png';
+import Tickte from '../images/Ticket-ganretor.png'
 
 
 
@@ -16,6 +17,7 @@ const Projects = () => {
         <ProjectBox projectPhoto={boot} projectName="Responsiveweb" />
         <ProjectBox projectPhoto={Adminpanle} projectName="BlogAdmin" />
         <ProjectBox projectPhoto={FirebaseCrud} projectName="Firebasecrud" />
+        <ProjectBox projectPhoto={Tickte} projectName="TicketSystem" />
       </div>
 
     </div>
